@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Descripción](#1.Descripción)
+1. [Descripción](#1Descripción)
 2. [Inicio y ejecución](#Inicio-y-ejecución)
 3. [Controles básicos](#Controles-básicos)
 4. [Objetivo de Asteroids](#Objetivo-de-Asteroids)
@@ -12,7 +12,7 @@
 7. [Diviértete](#Diviértete)
 
 
-# 1.Descripción	
+# 1Descripción	
 **Asteroids,** es un juego arcade donde el principal objetivo del juego es disparar con el láser a los asteroides evitando colisionar con ellos y sus fragmentos.
 
 
