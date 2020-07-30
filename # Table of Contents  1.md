@@ -46,7 +46,7 @@ Tendremos como máximo 3 intentos o vidas en cada partida.
 ### Objetos del juego
 Se puede observar en la imagen todas las partes que forman nuestro juego.
 <p>
-	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png"  width="500" height="500">
+	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png"  width="600" height="600">
 </p>
 
 ### Pantalla inicial
@@ -58,7 +58,7 @@ Pantalla inicial al iniciar el juego, empezamos en el nivel 1, a medida que dest
 ### Fin de la partida
 Una vez consumidas las 3 vidas terminará la partida lo que conlleva que se reinicialice a cero la puntuación actual.
 <p>
-	<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png" width="100" height="100" >
+	<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png" width="500" height="500" >
 </p>
 
 
