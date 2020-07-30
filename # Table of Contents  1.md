@@ -29,13 +29,14 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Flecha izquierda ←: girar hacia la izquierda
 * Flecha derecha   →: girar hacia la derecha
 * Barra espaciadora <img alt="spaceBar" title="spaceBar" src="imagesReadme/spaceBar.png" width="80"> : disparar
-
-<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" width="80">
-
+<p>
+<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" >
+</p>
 ## Objetivo de Asteroids
 El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
 Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
 Tendremos como máximo 3 intentos o vidas en cada partida.
+
 <img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png" width="80">
 
 ## Pantallas del juego
