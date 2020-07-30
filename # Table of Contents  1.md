@@ -19,7 +19,7 @@
 
 
 ## Inicio y ejecución
-Para ejecutar el juego descargar el archivo Asteroids.zip y descomprimirlo. Abrir el directorio Asteroids y hacer doble click sobre **Asteroids.html**. Se abrirá con el navegador que utilice por defecto. No es necesario instalar ningún programa complementario, solamente tener un navegador instalado. 
+Para ejecutar el juego descargar el archivo Asteroids.zip y descomprimirlo. Abrir el directorio Asteroids y hacer doble click sobre [**Asteroids.html**](Asteroids.html). Se abrirá con el navegador que utilice por defecto. No es necesario instalar ningún programa complementario, solamente tener un navegador instalado. 
 
 
 ## Controles básicos
