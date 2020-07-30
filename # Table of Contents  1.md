@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Descripción](#Descripción)
+1. [Descripción](#1.Descripción)
 2. [Inicio y ejecución](#Inicio-y-ejecución)
 3. [Controles básicos](#Controles-básicos)
 4. [Objetivo de Asteroids](#Objetivo-de-Asteroids)
