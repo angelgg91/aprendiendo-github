@@ -32,12 +32,13 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 <p>
 	<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" >
 </p>
+
 ## Objetivo de Asteroids
 El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
 Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
 Tendremos como máximo 3 intentos o vidas en cada partida.
 <p>
-	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png">
+	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png" >
 </p>
 
 ## Pantallas del juego
@@ -45,7 +46,7 @@ Tendremos como máximo 3 intentos o vidas en cada partida.
 ### Objetos del juego
 Se puede observar en la imagen todas las partes que forman nuestro juego.
 <p>
-	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png">
+	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png" >
 </p>
 
 ### Pantalla inicial
@@ -57,7 +58,7 @@ Pantalla inicial al iniciar el juego, empezamos en el nivel 1, a medida que dest
 ### Fin de la partida
 Una vez consumidas las 3 vidas terminará la partida lo que conlleva que se reinicialice a cero la puntuación actual.
 <p>
-	<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png">
+	<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png" >
 </p>
 
 
