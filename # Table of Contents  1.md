@@ -39,6 +39,7 @@ Tendremos como máximo 3 intentos o vidas en cada partida.
 <p>
 	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png">
 </p>
+
 ## Pantallas del juego
 
 ### Objetos del juego
