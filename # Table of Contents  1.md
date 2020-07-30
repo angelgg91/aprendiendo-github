@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 1. [Descripción](#1.-Descripción)
 2. [Inicio y ejecución](#Inicio-y-ejecución)
