@@ -38,7 +38,7 @@ El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuac
 Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
 Tendremos como máximo 3 intentos o vidas en cada partida.
 <p>
-	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png" width="200" height="200" >
+	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png" width="500" height="500" >
 </p>
 
 ## Pantallas del juego
@@ -46,13 +46,13 @@ Tendremos como máximo 3 intentos o vidas en cada partida.
 ### Objetos del juego
 Se puede observar en la imagen todas las partes que forman nuestro juego.
 <p>
-	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png"  width="200" height="200">
+	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png"  width="500" height="500">
 </p>
 
 ### Pantalla inicial
 Pantalla inicial al iniciar el juego, empezamos en el nivel 1, a medida que destruyamos los asteroides el nivel se va incrementando
 <p>
-	<img alt="canvasLevel" title="canvasLevel" src="imagesReadme/canvasLevel.png" width="200" height="200" >
+	<img alt="canvasLevel" title="canvasLevel" src="imagesReadme/canvasLevel.png" width="500" height="500" >
 </p>
 
 ### Fin de la partida
