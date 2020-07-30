@@ -1,6 +1,6 @@
 # **Asteroids** (Manual de Usuario)
 
-## Table of Contents
+## Índice
 
 1. [Descripción](#Descripción)
 2. [Inicio y ejecución](#Inicio-y-ejecución)
