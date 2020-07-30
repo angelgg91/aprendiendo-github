@@ -28,7 +28,7 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Flecha superior      ↑: acelerar
 * Flecha izquierda ←: girar hacia la izquierda
 * Flecha derecha   →: girar hacia la derecha
-* Barra espaciadora  : disparar
+* Barra espaciadora <img alt="spaceBar" title="spaceBar" src="imagesReadme/licencia.png" width="80"> : disparar
 
 
 ## Objetivo de Asteroids
