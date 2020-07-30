@@ -30,7 +30,7 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Flecha derecha   →: girar hacia la derecha
 * Barra espaciadora <img alt="spaceBar" title="spaceBar" src="imagesReadme/spaceBar.png" width="80"> : disparar
 <p>
-	<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" width="200" >
+	<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" width="100" >
 </p>
 
 ## Objetivo de Asteroids
