@@ -1,4 +1,4 @@
-#**Asteroids** (Manual de Usuario)
+# **Asteroids** (Manual de Usuario)
 
 ## Table of Contents
 
