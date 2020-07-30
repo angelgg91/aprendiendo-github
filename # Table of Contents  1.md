@@ -12,7 +12,7 @@
 7. [Diviértete](#Diviértete)
 
 
-# Descripción	
+# 1.Descripción	
 **Asteroids,** es un juego arcade donde el principal objetivo del juego es disparar con el láser a los asteroides evitando colisionar con ellos y sus fragmentos.
 
 
