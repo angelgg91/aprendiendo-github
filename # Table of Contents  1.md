@@ -30,28 +30,35 @@ Para hacer un uso correcto y eficaz de los controles para evitar colisionar con 
 * Flecha derecha   →: girar hacia la derecha
 * Barra espaciadora <img alt="spaceBar" title="spaceBar" src="imagesReadme/spaceBar.png" width="80"> : disparar
 <p>
-<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" >
+	<img alt="keyboard" title="keyboard" src="imagesReadme/keyboard.png" >
 </p>
 ## Objetivo de Asteroids
 El objetivo es sobrevivir el máximo tiempo posible y obtener la máxima puntuación posible destruyendo todos los asteroides con el láser, sin que estos colisionan contra nuestra nave. 
 Hay que tener en cuenta que un asteroide de mayor tamaño se fracciona en asteroides más pequeños al ser alcanzado por el láser.
 Tendremos como máximo 3 intentos o vidas en cada partida.
-
-<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png" width="80">
-
+<p>
+	<img alt="canvasFree" title="canvasFree" src="imagesReadme/canvasFree.png">
+</p>
 ## Pantallas del juego
 
 ### Objetos del juego
 Se puede observar en la imagen todas las partes que forman nuestro juego.
-<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png" width="80">
+<p>
+	<img alt="canvasObjects" title="canvasObjects" src="imagesReadme/canvasObjects.png">
+</p>
 
 ### Pantalla inicial
 Pantalla inicial al iniciar el juego, empezamos en el nivel 1, a medida que destruyamos los asteroides el nivel se va incrementando
-<img alt="canvasLevel" title="canvasLevel" src="imagesReadme/canvasLevel.png" width="80">
+<p>
+	<img alt="canvasLevel" title="canvasLevel" src="imagesReadme/canvasLevel.png" >
+</p>
 
 ### Fin de la partida
 Una vez consumidas las 3 vidas terminará la partida lo que conlleva que se reinicialice a cero la puntuación actual.
-<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png" width="80">
+<p>
+	<img alt="canvasGameOver" title="canvasGameOver" src="imagesReadme/canvasGameOver.png">
+</p>
+
 
 ## Cómo jugar
 * Una vez iniciado el juego según lo descrito en el apartado 2. Podemos empezar a disfrutar de la experiencia del juego.
